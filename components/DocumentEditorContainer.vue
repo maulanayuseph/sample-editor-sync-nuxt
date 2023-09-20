@@ -249,7 +249,7 @@ export default {
 </script>
 
 <style>
-@import "https://cdn.syncfusion.com/ej2/22.1.34/bootstrap5.css";
+@import "~/assets/bootstrap5.css";
 
 #documenteditor_titlebar {
   height: 36px;
